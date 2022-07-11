@@ -16,7 +16,7 @@
 
 ## About
 
-[Gitmoji中文]([https://gitmoji.dev](https://gitmoji-git-master-stars-one1.vercel.app/)) is an initiative to standardize and explain **the use of emojis on GitHub commit messages**.
+[Gitmoji中文](https://gitmoji-git-master-stars-one1.vercel.app/) is an initiative to standardize and explain **the use of emojis on GitHub commit messages**.
 
 部署地址：https://vercel.com/stars-one1/gitmoji
 
